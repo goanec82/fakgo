@@ -1,12 +1,12 @@
 # fakgo
  a simpler raffle bot
 
-fakgo.py was for Windows 10 and Chromedriver is for version 87
+fakgo.py is for Windows 10 and Chromedriver version 87 is required
 
 #Dependencies
 Python 3.6 or higher
-Python modules listed in the requirements.txt
-git 
+require.txt
+
 
 #Installation
 git clone https://github.com/goanec82/fakgo
