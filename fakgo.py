@@ -110,3 +110,4 @@ while True:
 	URL = readurlfrometxt()
 	driver = startdriver(URL)
 	startfakgo(driver, adresslist)
+
